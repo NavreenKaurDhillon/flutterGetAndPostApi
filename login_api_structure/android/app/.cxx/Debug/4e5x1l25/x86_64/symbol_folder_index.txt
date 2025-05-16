@@ -1,0 +1,1 @@
+/home/cqlandroid/Documents/login_api_structure/build/app/intermediates/cxx/Debug/4e5x1l25/obj/x86_64

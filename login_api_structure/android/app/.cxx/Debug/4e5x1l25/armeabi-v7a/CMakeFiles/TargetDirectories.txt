@@ -1,0 +1,2 @@
+/home/cqlandroid/Documents/login_api_structure/android/app/.cxx/Debug/4e5x1l25/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/cqlandroid/Documents/login_api_structure/android/app/.cxx/Debug/4e5x1l25/armeabi-v7a/CMakeFiles/rebuild_cache.dir
